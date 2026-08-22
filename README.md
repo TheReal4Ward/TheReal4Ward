@@ -44,34 +44,6 @@
 
 > ~9000 hours and counting. Don't challenge me, you'll lose.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheReal4Ward&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal4Ward&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheReal4Ward&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-### 🐍 Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheReal4Ward/TheReal4Ward/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheReal4Ward/TheReal4Ward/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/TheReal4Ward/TheReal4Ward/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<div align="center">
 
 *"Code hard, game harder."*
 
