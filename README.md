@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,csharp,php,python,figma,ps&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,cs,php,python,figma,ps&perline=9" />
 </a>
 
 | Skill | Level |
