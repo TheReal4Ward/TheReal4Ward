@@ -35,6 +35,7 @@
 
 ### 🗣️ Languages
 
+![Persian](https://img.shields.io/badge/Persian-Native-white)
 ![English](https://img.shields.io/badge/English-Professional-blue)
 ![Spanish](https://img.shields.io/badge/Spanish-Beginner-green)
 
